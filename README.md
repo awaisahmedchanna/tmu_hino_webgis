@@ -1,6 +1,6 @@
 <p align="right">
   <img src="qr_code.png" alt="Scan QR Code to Open Live Web GIS" width="130"/><br>
-  *Scan the QR code to access the live interactive Web GIS deployment.*
+  Scan the QR code to access live.
 </p>
 
 # TMU Hino Campus Web GIS (DBSCAN)
